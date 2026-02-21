@@ -29,9 +29,9 @@
 ## 🔐 Cybersecurity Learning
 
 <p align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/abhisheksingh07.png" alt="Your Image Badge" />
-
-
+<a href="https://tryhackme.com/p/abhisheksingh07">
+<img src="https://tryhackme-badges.s3.amazonaws.com/abhisheksingh07.png" alt="TryHackMe Badge" />
+</a>
 </p>
 
 * TryHackMe Labs (Active Learner)
