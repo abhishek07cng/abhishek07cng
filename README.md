@@ -32,6 +32,7 @@
 <a href="https://tryhackme.com/p/abhisheksingh07">
 <img src="https://tryhackme-badges.s3.amazonaws.com/abhisheksingh07.png" alt="Your Image Badge" />
 
+
 </a>
 </p>
 
@@ -55,14 +56,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abhishek07cng&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek07cng&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
