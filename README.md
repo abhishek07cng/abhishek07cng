@@ -49,10 +49,11 @@
 
 ### 🌍 Wanderlust — Full Stack Travel Platform
 
-* MERN Stack Web Application
-* Authentication & Authorization
-* CRUD Operations
-* Responsive UI
+* Engineered a full-stack web application using MVC architecture supporting dynamic CRUD operations and user authentication.
+* Implemented secure login and role-based authorization with Passport.js, improving application security and access control.
+* Integrated Mapbox API for geolocation services and interactive maps, enhancing user experience.
+* Optimized MongoDB queries, reducing average response time by approximately 30%.
+* Deployed the application on Render with production-ready configurations and environment security practices.
 
 🔗 https://github.com/abhishek07cng
 
